@@ -5,6 +5,7 @@ Pull requests are very welcome!
 
 ### Applications
 
+* Google Chrome
 * Spotify
 * Slack
 * Dropbox
