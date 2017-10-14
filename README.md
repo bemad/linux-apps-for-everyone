@@ -5,10 +5,10 @@ Pull requests are very welcome!
 
 ### Applications
 
-* Google Chrome
-* Spotify
-* Slack
-* Dropbox
-* Discord
-* Skype
-* Steam
+* [Google Chrome](https://www.google.com/chrome/)
+* [Spotify](https://www.spotify.com/us/download/linux/)
+* [Slack](https://slack.com/downloads/linux)
+* [Dropbox](https://www.dropbox.com/install-linux)
+* [Discord](https://discordapp.com/download)
+* [Skype](https://www.skype.com/en/download-skype/skype-for-linux/)
+* [Steam](http://store.steampowered.com/about/)
