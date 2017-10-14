@@ -5,9 +5,9 @@ Pull requests are very welcome!
 
 ### Applications
 
-Spotify
-Slack
-Dropbox
-Discord
-Skype
-Steam
+* Spotify
+* Slack
+* Dropbox
+* Discord
+* Skype
+* Steam
