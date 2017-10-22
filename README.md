@@ -12,3 +12,4 @@ Pull requests are very welcome!
 * [Discord](https://discordapp.com/download)
 * [Skype](https://www.skype.com/en/download-skype/skype-for-linux/)
 * [Steam](http://store.steampowered.com/about/)
+* [VLC](https://www.videolan.org/vlc/#download)
