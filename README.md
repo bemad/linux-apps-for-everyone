@@ -9,6 +9,7 @@ Pull requests are very welcome!
 * [Spotify](https://www.spotify.com/us/download/linux/)
 * [Slack](https://slack.com/downloads/linux)
 * [Dropbox](https://www.dropbox.com/install-linux)
+* [LastPass](https://lastpass.com/lplinux.php)
 * [Discord](https://discordapp.com/download)
 * [Skype](https://www.skype.com/en/download-skype/skype-for-linux/)
 * [Steam](http://store.steampowered.com/about/)
