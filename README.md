@@ -15,3 +15,4 @@ Pull requests are very welcome!
 * [Steam](http://store.steampowered.com/about/)
 * [VLC](https://www.videolan.org/vlc/#download)
 * [Opera](https://www.opera.com/download/linux/)
+* [SuperTuxKart](https://supertuxkart.net/Download)
